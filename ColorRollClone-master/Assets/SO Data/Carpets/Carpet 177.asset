@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 256649ab69321d7479d878c5b3c498a6, type: 3}
+  m_Name: Carpet 177
+  m_EditorClassIdentifier: 
+  Polygon:
+  - {x: -2.0823388, y: 6.901059}
+  - {x: -2.2988052, y: 8.197539}
+  - {x: 10.470449, y: 8.52224}
+  - {x: 10.470449, y: 7.2798786}
+  Color: {r: 1, g: 0.08962262, b: 0.8302766, a: 1}
+  Position: {x: 0, y: 0}
+  PoleOfInaccessibility: {x: 4.0899253, y: 7.7255588}
+  PivotPoints:
+  - {x: -2.0823388, y: 6.901059}
+  - {x: -2.2988052, y: 8.197539}
+  Order: 4
+  IsPivotClockwise: 1
+  stickPivotToEdge: 1
+  pivotPoint1: 0
+  pivotPoint2: 1
+  displayDefaultEditor: 0
+  show: 1
